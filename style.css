@@ -251,6 +251,18 @@ main {
   cursor: pointer;
 }
 
+.box:nth-of-type(2) .change p{
+  color: var(--Bright-Red);
+}
+
+.box:nth-of-type(7) .change p{
+  color: var(--Bright-Red);
+}
+
+.box:nth-of-type(8) .change p{
+  color: var(--Bright-Red);
+}
+
 .analytics {
   display: flex;
   justify-content: space-between;
