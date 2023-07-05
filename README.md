@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
-- Live Site URL: [Live preview]()
+- Solution URL: [Repository](https://github.com/Tasnim005/Social-media-dashboard-with-theme-switcher)
+- Live Site URL: [Live preview](https://tasnim005.github.io/Social-media-dashboard-with-theme-switcher/)
 
 ## My process
 
